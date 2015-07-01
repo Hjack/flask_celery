@@ -1,0 +1,3 @@
+newrelic.ini
+newrelic-python-agent.log
+*.pyc
